@@ -27,6 +27,3 @@ A section of each of the last 50 things they have posted (Each entry separated b
 
 
 Dataset: https://www.kaggle.com/datasnaek/mbti-type/downloads/mbti-myers-briggs-personality-type-dataset.zip/1
-
-
-[Vaishnav and Sandipani Dey]
